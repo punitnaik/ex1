@@ -1,0 +1,42 @@
+.wrap {
+    margin: auto;
+    margin-top: 200px;
+    overflow: hidden;
+    width: 450px;
+    height:300px;
+    padding: 20px;
+    background-color: rgba(red, green, blue, alpha);
+    border-radius: 5px;
+    color:whitesmoke;
+}
+
+.wrap input{
+    
+    width: 400px;
+    height:35px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid silver;
+    padding: 5px;
+
+}
+
+.wrap button{
+    align-self: center;
+
+    width: 200px;
+    height: 40px;
+    background-color: rgb(124, 7, 30);
+    color: white; 
+    border-radius: 3px;   
+}
+
+.logo
+{
+margin: 10px;
+padding: 20px;
+position: absolute;
+left: 0;
+top: 0;
+}
+
